@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-public class Teaching extends Office{
+public class NTeaching extends Office{
     String designation;
+
     void set_data(){
         Scanner s = new Scanner(System.in);
 
